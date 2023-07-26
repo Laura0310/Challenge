@@ -1,0 +1,44 @@
+body {
+	background-color: rgb(242, 242, 242);
+}
+
+.text-purple {
+	color: #4935bb;
+}
+
+.bg-purple {
+	background-color: #4935bb;
+}
+
+.btn-purple {
+	background-color: #4935bb !important;
+	border-color: #4935bb !important;
+}
+
+.btn-purple-outline {
+	background-color: transparent !important;
+	border-color: #4935bb !important;
+	color: #4935bb !important;
+}
+
+.btn-purple-outline:hover {
+	background-color: #4935bb !important;
+	border-color: #4935bb !important;
+	color: #fff !important;
+}
+
+.b-divider {
+	border-bottom: 1px solid #d4d4d4;
+}
+
+.b-divider:last-child {
+	border-bottom: none;
+}
+
+.fs-14 {
+	font-size: 14px !important;
+}
+
+.max-h-container{
+	max-height: 512px;
+}
